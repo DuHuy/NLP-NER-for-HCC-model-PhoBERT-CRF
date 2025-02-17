@@ -26,8 +26,8 @@
     per_device_eval_batch_size=16,
     num_train_epochs=4,  # Số epoch
     weight_decay=0.01,
-.
-              precision    recall  f1-score   support
+
+                 precision    recall  f1-score   support
 
         B-CQ       1.00      1.00      1.00      7105
         B-NG       1.00      1.00      1.00      4087
